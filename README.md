@@ -11,6 +11,7 @@ Select columns for further analysis and visualization.
 Data Visualization:
 Histogram: Visualize the distribution of a selected column.
 Correlation Heatmap: See correlations between numeric columns.
+
 How to Use
 Upload a CSV File: Click on the "Upload a CSV file" button to upload your dataset.
 Analyze Missing Values: The app will automatically detect missing values in each column and display them.
